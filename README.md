@@ -1,7 +1,7 @@
 
-# UTM Professor Data Analysis (Demo Only)
+# UTM Department Data Analysis (Demo Only)
 
-This project demonstrates how to analyze and visualize professor rating data using Bayesian averaging, based on data that was collected from publicly available pages on [RateMyProfessors](https://www.ratemyprofessors.com/).  
+This project demonstrates how to analyze and visualize rating data using Bayesian averaging, based on data that was collected from publicly available pages on [RateMyProfessors](https://www.ratemyprofessors.com/).  
 Only analysis logic and example plots are retained for educational purposes.
 
 ---
@@ -31,8 +31,6 @@ Only analysis logic and example plots are retained for educational purposes.
 These plots are **examples** only, based on previously generated data that has now been removed:
 
 ![Difficulty Ranking Chart](https://raw.githubusercontent.com/Jackymn25/utm-professor-analysis-rmp/main/plots/pic_2.png)
-![Difficulty Ranking Chart](https://raw.githubusercontent.com/Jackymn25/utm-professor-analysis-rmp/main/plots/pic_1.png)
-![Difficulty Ranking Chart](https://raw.githubusercontent.com/Jackymn25/utm-professor-analysis-rmp/main/plots/myplot1.png)
 
 ---
 
